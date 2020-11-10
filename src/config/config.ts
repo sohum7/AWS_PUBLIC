@@ -1,18 +1,18 @@
 export const config = {
   "dev": {
-    "username": "sohum7",
+    "username": "",
     "password": "",
-    "database": "TEST_database_sohum",
-    "host": "test-database.cxwp8tjkffmb.us-east-2.rds.amazonaws.com",
+    "database": "",
+    "host": "",
     "dialect": "postgres",
     "aws_region": "us-east-2",
     "aws_profile": "default",
-    "aws_media_bucket": "test-patel-restapi-dev"
+    "aws_media_bucket": ""
   },
   "prod": {
     "username": "",
     "password": "",
-    "database": "udagram_prod",
+    "database": "",
     "host": "",
     "dialect": "postgres"
   }
